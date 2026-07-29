@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 272" role="img" aria-label="auraboys">
+  <!--
+    Redibujo vectorial del logo original dibujado a mano (public/image.png).
+    Misma forma, mismos colores, fondo transparente.
+    Cada forma es un unico path para que el contorno negro no muestre costuras.
+  -->
+  <g stroke="#000000" stroke-width="7" stroke-linejoin="round" stroke-linecap="round">
+    <!-- El aura: dos hombros redondeados con una muesca al centro -->
+    <path
+      fill="#7F7F7F"
+      d="M 8 196 L 8 90 C 8 40 46 6 90 6 C 132 6 158 36 160 82 C 162 36 188 6 230 6 C 274 6 312 40 312 90 L 312 196 Z"
+    />
+    <!-- La A, con patas acampanadas -->
+    <path
+      fill="#7092BE"
+      fill-rule="evenodd"
+      d="M 160 22 L 254 214 L 296 214 L 302 260 L 206 260 L 210 214 L 203.7 198 L 116.3 198 L 110 214 L 114 260 L 18 260 L 24 214 L 66 214 Z M 160 88 L 193.3 172 L 126.7 172 Z"
+    />
+  </g>
+</svg>
