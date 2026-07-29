@@ -104,7 +104,7 @@ export const sponsors: Sponsor[] = [
   {
     // ⚠️ Confirmar la URL real de BelSport y reemplazar el "#".
     nombre: "BelSport",
-    url: "#",
+    url: "https://www.belsport.cl/",
     logo: "/sponsors/images.jpeg",
     logoAncho: 447,
     logoAlto: 447,
