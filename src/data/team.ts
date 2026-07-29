@@ -29,7 +29,7 @@ export type Red = {
  */
 export const redes: Red[] = [
   { nombre: "Twitch", handle: "auraboys", url: "https://twitch.tv/" },
-  { nombre: "Instagram", handle: "auraboys", url: "https://instagram.com/" },
+  { nombre: "Instagram", handle: "auraboys", url: "https://www.instagram.com/aurabbboys/" },
   { nombre: "X", handle: "auraboys", url: "https://x.com/" },
   { nombre: "Discord", handle: "auraboys", url: "https://discord.gg/" },
 ];
