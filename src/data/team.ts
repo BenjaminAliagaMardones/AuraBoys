@@ -111,7 +111,7 @@ export const sponsors: Sponsor[] = [
   },
   {
     nombre: "Sponsor",
-    url: "#",
+    url: "https://www.metro.cl",
     logo: "/sponsors/sponsor4.png",
     logoAncho: 447,
     logoAlto: 447,
